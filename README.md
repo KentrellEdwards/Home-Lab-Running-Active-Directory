@@ -1,4 +1,4 @@
-# Home Lab Running Active Directory <img align="center" width="40px" src="https://www.iconfinder.com/icons/4202105/microsoft_logo_social_social%20media_icon" />
+# Home Lab Running Active Directory <img align="center" width="40px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/78-microsoft-256.png" />
 
 ## Objective
 Use Wireshark to capture packets on a certain interface and use filters to observe website traffic.
