@@ -5,6 +5,7 @@ Set up a basic home lab running an active directory (Oracle VirtualBox) | Add us
 
 <img src="https://i.imgur.com/2ipLu3d.png" />
 
+
 ### Skills Learned
 
 - Install and set up VirtualBox.
