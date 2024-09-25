@@ -3,7 +3,7 @@
 ## Objective
 Set up a basic home lab running an active directory (Oracle VirtualBox) | Add users w/powershell.
 
-<img src="https://github.com/KentrellEdwards/Home-Lab-Running-Active-Directory/blob/main/HomeLab.png" />
+<img src="https://i.imgur.com/2ipLu3d.png" />
 
 ### Skills Learned
 
